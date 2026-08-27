@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-27T06:10:23Z",
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55141
+                "stars": 55142
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-25T14:40:25Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189408
+                "stars": 189409
               }
             },
             {
@@ -821,7 +821,7 @@
             "last_commit": "2026-08-27T00:18:47Z",
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17973
+            "stars": 17975
           }
         },
         {
@@ -2108,7 +2108,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:45.400Z",
+    "last_updated": "2026-08-27T12:12:57.311Z",
     "original_repository_info": {
       "archived": false,
       "id": 456143729,

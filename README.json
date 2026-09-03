@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "55211⭐ 8441🍴 PowerShell",
+              "title": "55225⭐ 8441🍴 PowerShell",
               "description": ") - Automation and configuration tool/framework that is optimized for dealing with structured data.",
               "children": [],
               "repo_info": {
@@ -17,11 +17,11 @@
                 "id": 49609581,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-01T22:54:26Z",
-                "open_issues": 1609,
+                "last_commit": "2026-09-03T04:40:21Z",
+                "open_issues": 1610,
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55224,
+                "stars": 55248,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -65,7 +65,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "189485⭐ 26595🍴 oh-my-zsh",
+              "title": "189500⭐ 26586🍴 oh-my-zsh",
               "description": ") - Delightful community-driven framework for managing your zsh configuration.",
               "children": [],
               "repo_info": {
@@ -79,7 +79,7 @@
                 "open_issues": 576,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189499,
+                "stars": 189513,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -102,7 +102,7 @@
             },
             {
               "node_type": "item",
-              "title": "36022⭐ 1940🍴 zsh-autosuggestions",
+              "title": "36029⭐ 1940🍴 zsh-autosuggestions",
               "description": ") - Fish-like autosuggestions for zsh.",
               "children": [],
               "repo_info": {
@@ -116,7 +116,7 @@
                 "open_issues": 203,
                 "owner": "zsh-users",
                 "repo": "zsh-autosuggestions",
-                "stars": 36029,
+                "stars": 36030,
                 "topics": [
                   "autocomplete",
                   "autosuggest",
@@ -130,7 +130,7 @@
             },
             {
               "node_type": "item",
-              "title": "22960⭐ 1377🍴 zsh-syntax-highlighting",
+              "title": "22961⭐ 1376🍴 zsh-syntax-highlighting",
               "description": ") - Fish shell like syntax highlighting for Zsh.",
               "children": [],
               "repo_info": {
@@ -144,7 +144,7 @@
                 "open_issues": 214,
                 "owner": "zsh-users",
                 "repo": "zsh-syntax-highlighting",
-                "stars": 22961,
+                "stars": 22962,
                 "topics": [
                   "screenshot",
                   "shell",
@@ -171,7 +171,7 @@
                 "open_issues": 198,
                 "owner": "sorin-ionescu",
                 "repo": "prezto",
-                "stars": 14567,
+                "stars": 14566,
                 "topics": [
                   "cli",
                   "framework",
@@ -204,7 +204,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pure",
-                "stars": 14408,
+                "stars": 14410,
                 "topics": [
                   "git",
                   "minimal",
@@ -236,7 +236,7 @@
                 "open_issues": 166,
                 "owner": "Powerlevel9k",
                 "repo": "powerlevel9k",
-                "stars": 13413,
+                "stars": 13412,
                 "topics": [
                   "eye-candy",
                   "powerline-fonts",
@@ -250,7 +250,7 @@
             },
             {
               "node_type": "item",
-              "title": "8353⭐ 287🍴 antigen",
+              "title": "8352⭐ 288🍴 antigen",
               "description": ") - Plugin manager for zsh, inspired by oh-my-zsh and vundle.",
               "children": [],
               "repo_info": {
@@ -314,7 +314,7 @@
                 "open_issues": 24,
                 "owner": "zimfw",
                 "repo": "zimfw",
-                "stars": 4679,
+                "stars": 4680,
                 "topics": [
                   "framework",
                   "zim",
@@ -342,7 +342,7 @@
                 "open_issues": 29,
                 "owner": "liquidprompt",
                 "repo": "liquidprompt",
-                "stars": 4675,
+                "stars": 4673,
                 "topics": [
                   "bash",
                   "linux-shell",
@@ -580,8 +580,8 @@
                 "id": 67451122,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2023-08-14T19:45:33Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-02T20:27:06Z",
+                "open_issues": 19,
                 "owner": "zunit-zsh",
                 "repo": "zunit",
                 "stars": 226,
@@ -820,7 +820,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "15148⭐ 2310🍴 bash-it",
+              "title": "15149⭐ 2310🍴 bash-it",
               "description": ") - Collection of community Bash commands and scripts.",
               "children": [],
               "repo_info": {
@@ -866,7 +866,7 @@
                 "open_issues": 29,
                 "owner": "liquidprompt",
                 "repo": "liquidprompt",
-                "stars": 4675,
+                "stars": 4673,
                 "topics": [
                   "bash",
                   "linux-shell",
@@ -1012,7 +1012,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6938⭐ 983🍴 bash-git-prompt",
+              "title": "6938⭐ 982🍴 bash-git-prompt",
               "description": ") - Informative and fancy Bash prompt for Git users.",
               "children": [],
               "repo_info": {
@@ -1204,7 +1204,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "11382⭐ 806🍴 oh-my-fish",
+              "title": "11383⭐ 806🍴 oh-my-fish",
               "description": ") - The Fishshell Framework.",
               "children": [],
               "repo_info": {
@@ -1236,7 +1236,7 @@
             },
             {
               "node_type": "item",
-              "title": "9407⭐ 277🍴 Fisher",
+              "title": "9411⭐ 276🍴 Fisher",
               "description": ") - Package manager for the fish shell.",
               "children": [],
               "repo_info": {
@@ -1272,7 +1272,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "74256⭐ 4229🍴 Terminus",
+          "title": "74283⭐ 4230🍴 Terminus",
           "description": ") - Cross-platform terminal for a more modern age, based on web technologies.",
           "children": [],
           "repo_info": {
@@ -1283,10 +1283,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-31T04:05:01Z",
-            "open_issues": 2875,
+            "open_issues": 2877,
             "owner": "Eugeny",
             "repo": "tabby",
-            "stars": 74281,
+            "stars": 74293,
             "topics": [
               "serial",
               "ssh-client",
@@ -1299,7 +1299,7 @@
         },
         {
           "node_type": "item",
-          "title": "65582⭐ 3591🍴 Alacritty",
+          "title": "65593⭐ 3591🍴 Alacritty",
           "description": ") - Cross-platform, GPU-accelerated terminal emulator.",
           "children": [],
           "repo_info": {
@@ -1313,7 +1313,7 @@
             "open_issues": 338,
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65592,
+            "stars": 65602,
             "topics": [
               "bsd",
               "gpu",
@@ -1331,7 +1331,7 @@
         },
         {
           "node_type": "item",
-          "title": "44712⭐ 3580🍴 Hyper",
+          "title": "44717⭐ 3581🍴 Hyper",
           "description": ") - Terminal built on web technologies.",
           "children": [],
           "repo_info": {
@@ -1345,7 +1345,7 @@
             "open_issues": 1046,
             "owner": "vercel",
             "repo": "hyper",
-            "stars": 44717,
+            "stars": 44721,
             "topics": [
               "css",
               "html",
@@ -1362,7 +1362,7 @@
         },
         {
           "node_type": "item",
-          "title": "27003⭐ 2073🍴 Cmder",
+          "title": "27004⭐ 2073🍴 Cmder",
           "description": ") - Lovely console emulator package for Windows.",
           "children": [],
           "repo_info": {
@@ -1395,7 +1395,7 @@
         },
         {
           "node_type": "item",
-          "title": "17996⭐ 1470🍴 iTerm2",
+          "title": "17996⭐ 1471🍴 iTerm2",
           "description": ") - Terminal emulator for macOS that does amazing things.",
           "children": [],
           "repo_info": {
@@ -1405,18 +1405,18 @@
             "id": 1580036,
             "language": "Objective-C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-01T21:21:39Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-03T05:24:50Z",
+            "open_issues": 66,
             "owner": "gnachman",
             "repo": "iTerm2",
-            "stars": 17996,
+            "stars": 18004,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
         },
         {
           "node_type": "item",
-          "title": "14430⭐ 860🍴 Mosh",
+          "title": "14432⭐ 860🍴 Mosh",
           "description": ") - Remote terminal application that allows roaming and supports intermittent connectivity.",
           "children": [],
           "repo_info": {
@@ -1430,14 +1430,14 @@
             "open_issues": 229,
             "owner": "mobile-shell",
             "repo": "mosh",
-            "stars": 14431,
+            "stars": 14435,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
         },
         {
           "node_type": "item",
-          "title": "9606⭐ 448🍴 FluentTerminal",
+          "title": "9605⭐ 448🍴 FluentTerminal",
           "description": ") - A Terminal Emulator based on UWP and web technologies.",
           "children": [],
           "repo_info": {
@@ -1458,7 +1458,7 @@
         },
         {
           "node_type": "item",
-          "title": "9256⭐ 621🍴 ConEmu",
+          "title": "9258⭐ 621🍴 ConEmu",
           "description": ") - Customizable Windows terminal with tabs, splits, quake-style and more.",
           "children": [],
           "repo_info": {
@@ -1535,7 +1535,7 @@
         },
         {
           "node_type": "item",
-          "title": "2649⭐ 317🍴 Terminator",
+          "title": "2650⭐ 319🍴 Terminator",
           "description": ") - Multiple GNOME terminals in one window.",
           "children": [],
           "repo_info": {
@@ -1549,7 +1549,7 @@
             "open_issues": 181,
             "owner": "gnome-terminator",
             "repo": "terminator",
-            "stars": 2650,
+            "stars": 2652,
             "topics": [
               "gnome",
               "gtk",
@@ -1618,7 +1618,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "25560⭐ 941🍴 asdf",
+              "title": "25562⭐ 942🍴 asdf",
               "description": ") - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
               "children": [],
               "repo_info": {
@@ -1628,11 +1628,11 @@
                 "id": 27291507,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-01T13:58:03Z",
-                "open_issues": 154,
+                "last_commit": "2026-09-03T01:28:23Z",
+                "open_issues": 152,
                 "owner": "asdf-vm",
                 "repo": "asdf",
-                "stars": 25562,
+                "stars": 25560,
                 "topics": [
                   "asdf-vm",
                   "bash",
@@ -1692,7 +1692,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "12331⭐ 298🍴 mas",
+              "title": "12332⭐ 298🍴 mas",
               "description": ") - Mac App Store command line interface.",
               "children": [],
               "repo_info": {
@@ -1706,7 +1706,7 @@
                 "open_issues": 87,
                 "owner": "mas-cli",
                 "repo": "mas",
-                "stars": 12332,
+                "stars": 12334,
                 "topics": [
                   "app-store",
                   "homebrew",
@@ -1728,7 +1728,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2511⭐ 421🍴 chromebrew",
+              "title": "2512⭐ 421🍴 chromebrew",
               "description": ") - Package manager for Chrome OS.",
               "children": [],
               "repo_info": {
@@ -1738,8 +1738,8 @@
                 "id": 11909954,
                 "language": "Ruby",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T05:44:20Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-03T03:39:08Z",
+                "open_issues": 41,
                 "owner": "chromebrew",
                 "repo": "chromebrew",
                 "stars": 2512,
@@ -1795,7 +1795,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "29485⭐ 1357🍴 micro",
+          "title": "29498⭐ 1357🍴 micro",
           "description": ") - Modern and intuitive terminal-based text editor.",
           "children": [],
           "repo_info": {
@@ -1805,11 +1805,11 @@
             "id": 53632140,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T00:35:49Z",
-            "open_issues": 971,
+            "last_commit": "2026-09-03T00:35:44Z",
+            "open_issues": 972,
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29498,
+            "stars": 29509,
             "topics": [
               "command-line",
               "cross-platform",
@@ -1857,10 +1857,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-20T04:09:37Z",
-            "open_issues": 150,
+            "open_issues": 151,
             "owner": "martanne",
             "repo": "vis",
-            "stars": 4708,
+            "stars": 4709,
             "topics": [
               "c",
               "console-application",
@@ -1880,7 +1880,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "82763⭐ 2860🍴 fzf",
+          "title": "82778⭐ 2860🍴 fzf",
           "description": ") - Command-line fuzzy finder.",
           "children": [],
           "repo_info": {
@@ -1891,10 +1891,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-31T10:09:46Z",
-            "open_issues": 327,
+            "open_issues": 328,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82778,
+            "stars": 82795,
             "topics": [
               "bash",
               "cli",
@@ -1912,7 +1912,7 @@
         },
         {
           "node_type": "item",
-          "title": "67791⭐ 2743🍴 ripgrep",
+          "title": "67850⭐ 2743🍴 ripgrep",
           "description": ") - Code-searching tool like ack and the_silver_searcher, but faster.",
           "children": [],
           "repo_info": {
@@ -1923,10 +1923,10 @@
             "language": "Rust",
             "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
-            "open_issues": 184,
+            "open_issues": 185,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67846,
+            "stars": 67896,
             "topics": [
               "cli",
               "command-line",
@@ -1954,11 +1954,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T17:14:12Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-03T04:57:42Z",
+            "open_issues": 312,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63559,
+            "stars": 63571,
             "topics": [
               "android",
               "bsd",
@@ -1986,7 +1986,7 @@
         },
         {
           "node_type": "item",
-          "title": "39099⭐ 883🍴 zoxide",
+          "title": "39114⭐ 884🍴 zoxide",
           "description": ") - cd anywhere without typing in long paths.",
           "children": [],
           "repo_info": {
@@ -1997,10 +1997,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-31T20:53:53Z",
-            "open_issues": 140,
+            "open_issues": 141,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39113,
+            "stars": 39134,
             "topics": [
               "autojump",
               "bash",
@@ -2028,7 +2028,7 @@
         },
         {
           "node_type": "item",
-          "title": "33495⭐ 1801🍴 glances",
+          "title": "33501⭐ 1801🍴 glances",
           "description": ") - top/htop alternative.",
           "children": [],
           "repo_info": {
@@ -2039,10 +2039,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-30T19:15:04Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33500,
+            "stars": 33514,
             "topics": [
               "monitoring",
               "multi-platform",
@@ -2058,7 +2058,7 @@
         },
         {
           "node_type": "item",
-          "title": "30466⭐ 1268🍴 wttr.in",
+          "title": "30472⭐ 1268🍴 wttr.in",
           "description": ") - The right way to check the weather.",
           "children": [],
           "repo_info": {
@@ -2072,7 +2072,7 @@
             "open_issues": 330,
             "owner": "chubin",
             "repo": "wttr.in",
-            "stars": 30472,
+            "stars": 30479,
             "topics": [
               "ascii-art",
               "curl",
@@ -2087,7 +2087,7 @@
         },
         {
           "node_type": "item",
-          "title": "27112⭐ 1438🍴 the_silver_searcher",
+          "title": "27113⭐ 1438🍴 the_silver_searcher",
           "description": ") - Code-searching tool similar to ack, but faster.",
           "children": [],
           "repo_info": {
@@ -2101,7 +2101,7 @@
             "open_issues": 564,
             "owner": "ggreer",
             "repo": "the_silver_searcher",
-            "stars": 27113,
+            "stars": 27114,
             "topics": [
               "ag",
               "c",
@@ -2115,7 +2115,7 @@
         },
         {
           "node_type": "item",
-          "title": "24443⭐ 654🍴 exa",
+          "title": "24445⭐ 654🍴 exa",
           "description": ") - Replacement for 'ls' written in Rust.",
           "children": [],
           "repo_info": {
@@ -2141,7 +2141,7 @@
         },
         {
           "node_type": "item",
-          "title": "23698⭐ 1785🍴 neofetch",
+          "title": "23696⭐ 1785🍴 neofetch",
           "description": ") - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.",
           "children": [],
           "repo_info": {
@@ -2170,7 +2170,7 @@
         },
         {
           "node_type": "item",
-          "title": "22179⭐ 11851🍴 homebrew-cask",
+          "title": "22180⭐ 11854🍴 homebrew-cask",
           "description": ") - CLI workflow for the administration of macOS applications distributed as binaries.",
           "children": [],
           "repo_info": {
@@ -2180,11 +2180,11 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-02T05:09:25Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-03T06:31:05Z",
+            "open_issues": 25,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
-            "stars": 22180,
+            "stars": 22182,
             "topics": [
               "cask",
               "hacktoberfest",
@@ -2195,7 +2195,7 @@
         },
         {
           "node_type": "item",
-          "title": "21853⭐ 815🍴 nnn",
+          "title": "21855⭐ 815🍴 nnn",
           "description": ") - Tiny, lightning fast, feature-packed file manager.",
           "children": [],
           "repo_info": {
@@ -2206,10 +2206,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-01T17:49:18Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21855,
+            "stars": 21857,
             "topics": [
               "android",
               "batch-rename",
@@ -2237,7 +2237,7 @@
         },
         {
           "node_type": "item",
-          "title": "20616⭐ 486🍴 fx",
+          "title": "20618⭐ 486🍴 fx",
           "description": ") - Command-line JSON viewer.",
           "children": [],
           "repo_info": {
@@ -2251,7 +2251,7 @@
             "open_issues": 27,
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20618,
+            "stars": 20617,
             "topics": [
               "cli",
               "command-line",
@@ -2263,7 +2263,7 @@
         },
         {
           "node_type": "item",
-          "title": "17750⭐ 1037🍴 asciinema",
+          "title": "17754⭐ 1037🍴 asciinema",
           "description": ") - Terminal session recorder.",
           "children": [],
           "repo_info": {
@@ -2277,7 +2277,7 @@
             "open_issues": 8,
             "owner": "asciinema",
             "repo": "asciinema",
-            "stars": 17754,
+            "stars": 17759,
             "topics": [
               "asciicast",
               "asciinema",
@@ -2292,7 +2292,7 @@
         },
         {
           "node_type": "item",
-          "title": "17499⭐ 559🍴 navi",
+          "title": "17499⭐ 560🍴 navi",
           "description": ") - An interactive cheatsheet tool for the command-line.",
           "children": [],
           "repo_info": {
@@ -2306,7 +2306,7 @@
             "open_issues": 111,
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17499,
+            "stars": 17503,
             "topics": [
               "bash",
               "cheatsheets",
@@ -2323,7 +2323,7 @@
         },
         {
           "node_type": "item",
-          "title": "17044⭐ 1177🍴 z",
+          "title": "17044⭐ 1176🍴 z",
           "description": ") - Tool to jump to folders based on history matching a given regex",
           "children": [],
           "repo_info": {
@@ -2337,14 +2337,14 @@
             "open_issues": 107,
             "owner": "rupa",
             "repo": "z",
-            "stars": 17044,
+            "stars": 17042,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
         },
         {
           "node_type": "item",
-          "title": "16962⭐ 708🍴 autojump",
+          "title": "16961⭐ 708🍴 autojump",
           "description": ") - cd command that learns",
           "children": [],
           "repo_info": {
@@ -2358,7 +2358,7 @@
             "open_issues": 231,
             "owner": "wting",
             "repo": "autojump",
-            "stars": 16961,
+            "stars": 16959,
             "topics": [
               "autojump",
               "command-line-tool",
@@ -2370,7 +2370,7 @@
         },
         {
           "node_type": "item",
-          "title": "13714⭐ 626🍴 tmuxinator",
+          "title": "13715⭐ 626🍴 tmuxinator",
           "description": ") - Manage complex tmux sessions easily.",
           "children": [],
           "repo_info": {
@@ -2384,14 +2384,14 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13715,
+            "stars": 13714,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
         },
         {
           "node_type": "item",
-          "title": "13319⭐ 660🍴 tig",
+          "title": "13320⭐ 660🍴 tig",
           "description": ") - Text mode interface for git.",
           "children": [],
           "repo_info": {
@@ -2405,7 +2405,7 @@
             "open_issues": 232,
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13320,
+            "stars": 13318,
             "topics": [
               "c",
               "git",
@@ -2417,7 +2417,7 @@
         },
         {
           "node_type": "item",
-          "title": "11728⭐ 1193🍴 streamlink",
+          "title": "11728⭐ 1194🍴 streamlink",
           "description": ") - CLI for extracting streams from various websites to a video player of your choosing.",
           "children": [],
           "repo_info": {
@@ -2427,8 +2427,8 @@
             "id": 68402336,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T23:39:01Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-02T12:03:47Z",
+            "open_issues": 83,
             "owner": "streamlink",
             "repo": "streamlink",
             "stars": 11728,
@@ -2447,7 +2447,7 @@
         },
         {
           "node_type": "item",
-          "title": "10842⭐ 861🍴 howdoi",
+          "title": "10844⭐ 861🍴 howdoi",
           "description": ") - Instant code answers and examples from the command line",
           "children": [],
           "repo_info": {
@@ -2468,7 +2468,7 @@
         },
         {
           "node_type": "item",
-          "title": "9486⭐ 374🍴 lf",
+          "title": "9484⭐ 374🍴 lf",
           "description": ") - Terminal file manager.",
           "children": [],
           "repo_info": {
@@ -2479,10 +2479,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-25T00:37:27Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9484,
+            "stars": 9483,
             "topics": [
               "file-manager",
               "terminal"
@@ -2492,7 +2492,7 @@
         },
         {
           "node_type": "item",
-          "title": "8783⭐ 672🍴 mps-youtube",
+          "title": "8782⭐ 672🍴 mps-youtube",
           "description": ") - Terminal based YouTube player and downloader",
           "children": [],
           "repo_info": {
@@ -2506,14 +2506,14 @@
             "open_issues": 227,
             "owner": "mps-youtube",
             "repo": "yewtube",
-            "stars": 8782,
+            "stars": 8785,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
         },
         {
           "node_type": "item",
-          "title": "7187⭐ 321🍴 buku",
+          "title": "7188⭐ 321🍴 buku",
           "description": ") - command-line bookmark manager.",
           "children": [],
           "repo_info": {
@@ -2546,7 +2546,7 @@
         },
         {
           "node_type": "item",
-          "title": "6566⭐ 232🍴 lolcat",
+          "title": "6568⭐ 232🍴 lolcat",
           "description": ") - Rainbows and unicorns!",
           "children": [],
           "repo_info": {
@@ -2603,7 +2603,7 @@
         },
         {
           "node_type": "item",
-          "title": "5133⭐ 396🍴 colorls",
+          "title": "5134⭐ 396🍴 colorls",
           "description": ") - Beautify the terminal's command, with color and font-awesome icons.",
           "children": [],
           "repo_info": {
@@ -2617,7 +2617,7 @@
             "open_issues": 87,
             "owner": "athityakumar",
             "repo": "colorls",
-            "stars": 5134,
+            "stars": 5135,
             "topics": [
               "cli",
               "color",
@@ -2647,7 +2647,7 @@
             "open_issues": 103,
             "owner": "michael-lazar",
             "repo": "rtv",
-            "stars": 4645,
+            "stars": 4644,
             "topics": [
               "command-line",
               "curses",
@@ -2676,7 +2676,7 @@
             "open_issues": 6,
             "owner": "jhspetersson",
             "repo": "fselect",
-            "stars": 4459,
+            "stars": 4460,
             "topics": [
               "cli",
               "command-line",
@@ -2829,7 +2829,7 @@
         },
         {
           "node_type": "item",
-          "title": "4032⭐ 161🍴 dockly",
+          "title": "4033⭐ 161🍴 dockly",
           "description": ") - Docker console UI and Dashboard for quickly managing and inspecting Containers and Services.",
           "children": [],
           "repo_info": {
@@ -2843,7 +2843,7 @@
             "open_issues": 5,
             "owner": "lirantal",
             "repo": "dockly",
-            "stars": 4033,
+            "stars": 4032,
             "topics": [
               "cli",
               "command-line-tool",
@@ -2858,7 +2858,7 @@
         },
         {
           "node_type": "item",
-          "title": "3760⭐ 338🍴 gcalcli",
+          "title": "3762⭐ 338🍴 gcalcli",
           "description": ") - Google Calendar command line interface.",
           "children": [],
           "repo_info": {
@@ -2872,14 +2872,14 @@
             "open_issues": 170,
             "owner": "insanum",
             "repo": "gcalcli",
-            "stars": 3762,
+            "stars": 3761,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
         },
         {
           "node_type": "item",
-          "title": "3538⭐ 168🍴 ddgr",
+          "title": "3540⭐ 168🍴 ddgr",
           "description": ") - DuckDuckGo from the terminal.",
           "children": [],
           "repo_info": {
@@ -2920,8 +2920,8 @@
             "id": 45923375,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-21T08:03:54Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-03T02:45:36Z",
+            "open_issues": 34,
             "owner": "moncho",
             "repo": "dry",
             "stars": 3275,
@@ -2975,7 +2975,7 @@
         },
         {
           "node_type": "item",
-          "title": "3000⭐ 114🍴 lunchy",
+          "title": "2999⭐ 114🍴 lunchy",
           "description": ") - Friendly wrapper for launchctl.",
           "children": [],
           "repo_info": {
@@ -3027,7 +3027,7 @@
         },
         {
           "node_type": "item",
-          "title": "1804⭐ 125🍴 k",
+          "title": "1805⭐ 125🍴 k",
           "description": ") - Directory listings for zsh with git features.",
           "children": [],
           "repo_info": {
@@ -3041,7 +3041,7 @@
             "open_issues": 38,
             "owner": "supercrabtree",
             "repo": "k",
-            "stars": 1805,
+            "stars": 1806,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3058,7 +3058,7 @@
             "id": 55813837,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-03T01:19:25Z",
+            "last_commit": "2026-09-03T01:34:34Z",
             "open_issues": 17,
             "owner": "stefanhaustein",
             "repo": "TerminalImageViewer",
@@ -3118,7 +3118,7 @@
             "open_issues": 23,
             "owner": "dduan",
             "repo": "tre",
-            "stars": 1221,
+            "stars": 1222,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3161,7 +3161,7 @@
         },
         {
           "node_type": "item",
-          "title": "822⭐ 75🍴 ack3",
+          "title": "823⭐ 75🍴 ack3",
           "description": ") - Greplike tool, optimized for programmers.",
           "children": [],
           "repo_info": {
@@ -3483,7 +3483,7 @@
             "open_issues": 68,
             "owner": "jpbruinsslot",
             "repo": "slack-term",
-            "stars": 6616,
+            "stars": 6617,
             "topics": [
               "cli",
               "go",
@@ -3549,7 +3549,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "24347⭐ 2889🍴 awesome-sysadmin",
+                  "title": "24345⭐ 2889🍴 awesome-sysadmin",
                   "description": ") - Curated list of amazingly awesome open source sysadmin resources.",
                   "children": [],
                   "repo_info": {
@@ -3563,14 +3563,14 @@
                     "open_issues": 271,
                     "owner": "kahun",
                     "repo": "awesome-sysadmin",
-                    "stars": 24345,
+                    "stars": 24344,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:24.101Z"
                 },
                 {
                   "node_type": "item",
-                  "title": "17983⭐ 611🍴 awesome-zsh-plugins",
+                  "title": "17985⭐ 610🍴 awesome-zsh-plugins",
                   "description": ") - Collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.",
                   "children": [],
                   "repo_info": {
@@ -3584,7 +3584,7 @@
                     "open_issues": 6,
                     "owner": "unixorn",
                     "repo": "awesome-zsh-plugins",
-                    "stars": 17985,
+                    "stars": 17988,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -3605,7 +3605,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "9368⭐ 600🍴 awesome-emacs",
+                  "title": "9369⭐ 600🍴 awesome-emacs",
                   "description": ") - Community driven list of useful Emacs packages, libraries and others.",
                   "children": [],
                   "repo_info": {
@@ -3615,11 +3615,11 @@
                     "id": 22493222,
                     "language": null,
                     "license": "Unlicense",
-                    "last_commit": "2026-08-28T19:15:40Z",
-                    "open_issues": 37,
+                    "last_commit": "2026-09-02T15:57:43Z",
+                    "open_issues": 34,
                     "owner": "emacs-tw",
                     "repo": "awesome-emacs",
-                    "stars": 9369,
+                    "stars": 9370,
                     "topics": [
                       "awesome-list",
                       "emacs"
@@ -3629,7 +3629,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "3336⭐ 206🍴 awesome-devenv",
+                  "title": "3337⭐ 207🍴 awesome-devenv",
                   "description": ") - Curated list of delightful Bash scripts and resources.",
                   "children": [],
                   "repo_info": {
@@ -3657,7 +3657,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "162198⭐ 14834🍴 the-art-of-command-line",
+                  "title": "162212⭐ 14833🍴 the-art-of-command-line",
                   "description": ") - Master the command line, in one page.",
                   "children": [],
                   "repo_info": {
@@ -3671,7 +3671,7 @@
                     "open_issues": 257,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162211,
+                    "stars": 162215,
                     "topics": [
                       "bash",
                       "documentation",
@@ -3685,7 +3685,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "12372⭐ 1042🍴 bash-guide",
+                  "title": "12373⭐ 1042🍴 bash-guide",
                   "description": ") - Guide to learn bash.",
                   "children": [],
                   "repo_info": {
@@ -3699,7 +3699,7 @@
                     "open_issues": 27,
                     "owner": "Idnan",
                     "repo": "bash-guide",
-                    "stars": 12373,
+                    "stars": 12374,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3719,7 +3719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:27:50.936Z",
+    "last_updated": "2026-09-03T06:31:26.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴",
@@ -3727,7 +3727,7 @@
       "id": 456143729,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-01T08:03:40Z",
+      "last_commit": "2026-09-02T07:19:59Z",
       "open_issues": 0,
       "owner": "Correia-jpv",
       "repo": "fucking-terminals-are-sexy",
@@ -3747,7 +3747,7 @@
         "terminal-ui"
       ]
     },
-    "original_repository_sha": "185fe97d01c830c58758a5d1f418a1c88061ba2d",
+    "original_repository_sha": "4720686752c74fed24b6a4ea564dc47375ca654d",
     "enhanced_repository": "enhansome/enhansome-fucking-terminals-are-sexy",
     "enhanced_repository_description": null,
     "title": "Awesome Terminals Are Sexy with stars"

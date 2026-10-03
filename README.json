@@ -21,7 +21,7 @@
                 "open_issues": 1601,
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55576,
+                "stars": 55577,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -79,7 +79,7 @@
                 "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190046,
+                "stars": 190049,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -144,7 +144,7 @@
                 "open_issues": 214,
                 "owner": "zsh-users",
                 "repo": "zsh-syntax-highlighting",
-                "stars": 23015,
+                "stars": 23014,
                 "topics": [
                   "screenshot",
                   "shell",
@@ -1283,7 +1283,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-29T04:03:14Z",
-            "open_issues": 2825,
+            "open_issues": 2824,
             "owner": "Eugeny",
             "repo": "tabby",
             "stars": 74783,
@@ -1549,7 +1549,7 @@
             "open_issues": 175,
             "owner": "gnome-terminator",
             "repo": "terminator",
-            "stars": 2677,
+            "stars": 2678,
             "topics": [
               "gnome",
               "gtk",
@@ -1738,11 +1738,11 @@
                 "id": 11909954,
                 "language": "Ruby",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T02:59:36Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-03T05:22:04Z",
+                "open_issues": 41,
                 "owner": "chromebrew",
                 "repo": "chromebrew",
-                "stars": 2521,
+                "stars": 2520,
                 "topics": [
                   "chromebook",
                   "chromeos",
@@ -1856,8 +1856,8 @@
             "id": 26677418,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:33:30Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-03T05:04:01Z",
+            "open_issues": 155,
             "owner": "martanne",
             "repo": "vis",
             "stars": 4987,
@@ -1890,11 +1890,11 @@
             "id": 13807606,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:18:24Z",
+            "last_commit": "2026-10-03T06:06:11Z",
             "open_issues": 332,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83355,
+            "stars": 83357,
             "topics": [
               "bash",
               "cli",
@@ -1926,7 +1926,7 @@
             "open_issues": 201,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68788,
+            "stars": 68793,
             "topics": [
               "cli",
               "command-line",
@@ -1954,11 +1954,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:01:49Z",
-            "open_issues": 259,
+            "last_commit": "2026-10-03T05:42:50Z",
+            "open_issues": 254,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63810,
+            "stars": 63812,
             "topics": [
               "android",
               "bsd",
@@ -2072,7 +2072,7 @@
             "open_issues": 330,
             "owner": "chubin",
             "repo": "wttr.in",
-            "stars": 30618,
+            "stars": 30619,
             "topics": [
               "ascii-art",
               "curl",
@@ -2180,8 +2180,8 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-03T04:48:27Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-03T07:06:09Z",
+            "open_issues": 20,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22244,
@@ -2337,7 +2337,7 @@
             "open_issues": 108,
             "owner": "rupa",
             "repo": "z",
-            "stars": 17060,
+            "stars": 17061,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3619,7 +3619,7 @@
                     "open_issues": 34,
                     "owner": "emacs-tw",
                     "repo": "awesome-emacs",
-                    "stars": 9388,
+                    "stars": 9387,
                     "topics": [
                       "awesome-list",
                       "emacs"
@@ -3671,7 +3671,7 @@
                     "open_issues": 256,
                     "owner": "jlevy",
                     "repo": "the-art-of-command-line",
-                    "stars": 162559,
+                    "stars": 162558,
                     "topics": [
                       "bash",
                       "documentation",
@@ -3699,7 +3699,7 @@
                     "open_issues": 27,
                     "owner": "Idnan",
                     "repo": "bash-guide",
-                    "stars": 12390,
+                    "stars": 12389,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3719,7 +3719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:15.709Z",
+    "last_updated": "2026-10-03T07:08:06.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴",

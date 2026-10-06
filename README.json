@@ -21,7 +21,7 @@
                 "open_issues": 1606,
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55607,
+                "stars": 55609,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -75,11 +75,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:03:13Z",
-                "open_issues": 305,
+                "last_commit": "2026-10-06T09:06:45Z",
+                "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190181,
+                "stars": 190179,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1218,7 +1218,7 @@
                 "open_issues": 5,
                 "owner": "oh-my-fish",
                 "repo": "oh-my-fish",
-                "stars": 11396,
+                "stars": 11395,
                 "topics": [
                   "fish",
                   "fishshell",
@@ -1376,7 +1376,7 @@
             "open_issues": 73,
             "owner": "cmderdev",
             "repo": "cmder",
-            "stars": 27011,
+            "stars": 27012,
             "topics": [
               "c-plus-plus",
               "cmder",
@@ -1430,7 +1430,7 @@
             "open_issues": 231,
             "owner": "mobile-shell",
             "repo": "mosh",
-            "stars": 14547,
+            "stars": 14548,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
@@ -1857,7 +1857,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T03:55:53Z",
-            "open_issues": 153,
+            "open_issues": 152,
             "owner": "martanne",
             "repo": "vis",
             "stars": 5040,
@@ -1894,7 +1894,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83398,
+            "stars": 83400,
             "topics": [
               "bash",
               "cli",
@@ -1926,7 +1926,7 @@
             "open_issues": 202,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68871,
+            "stars": 68874,
             "topics": [
               "cli",
               "command-line",
@@ -1958,7 +1958,7 @@
             "open_issues": 258,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63823,
+            "stars": 63824,
             "topics": [
               "android",
               "bsd",
@@ -2000,7 +2000,7 @@
             "open_issues": 144,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39898,
+            "stars": 39903,
             "topics": [
               "autojump",
               "bash",
@@ -2042,7 +2042,7 @@
             "open_issues": 107,
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33740,
+            "stars": 33741,
             "topics": [
               "monitoring",
               "multi-platform",
@@ -2180,8 +2180,8 @@
             "id": 3623050,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-06T08:04:34Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-06T10:23:46Z",
+            "open_issues": 32,
             "owner": "Homebrew",
             "repo": "homebrew-cask",
             "stars": 22248,
@@ -2209,7 +2209,7 @@
             "open_issues": 1,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 22045,
+            "stars": 22046,
             "topics": [
               "android",
               "batch-rename",
@@ -2431,7 +2431,7 @@
             "open_issues": 68,
             "owner": "streamlink",
             "repo": "streamlink",
-            "stars": 11828,
+            "stars": 11829,
             "topics": [
               "cli",
               "livestream",
@@ -3397,7 +3397,7 @@
             "open_issues": 0,
             "owner": "maebert",
             "repo": "jrnl",
-            "stars": 52,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3511,7 +3511,7 @@
             "open_issues": 179,
             "owner": "go-jira",
             "repo": "jira",
-            "stars": 2746,
+            "stars": 2747,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:24.101Z"
@@ -3719,7 +3719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:10:56.342Z",
+    "last_updated": "2026-10-06T10:24:39.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴",
